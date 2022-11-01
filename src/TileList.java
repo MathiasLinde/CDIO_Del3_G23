@@ -1,4 +1,4 @@
-public class Tilelist {
+public class TileList {
 
 
         private Tile [] liste;
@@ -56,4 +56,4 @@ public class Tilelist {
         }
 
     }
-}
+

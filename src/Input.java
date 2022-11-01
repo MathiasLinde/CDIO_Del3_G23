@@ -1,9 +1,4 @@
 import java.util.Scanner;
-
-public class Input {
-
-import java.util.Scanner;
-
     public class Input {
         /**
          * Method that creates a scanner and holds the next input from keyboard in the variable s.
@@ -17,4 +12,4 @@ import java.util.Scanner;
             return s;
         }
     }
-}
+

@@ -2,8 +2,8 @@ public class Turn {
         /**
          * Creates 2 die objects.
          */
-        Tilegame.Die die1 = new Tilegame.Die();
-        Tilegame.Die die2 = new Die();
+        Die die1 = new Die();
+        Die die2 = new Die();
         int sum;
 
         /**
@@ -22,4 +22,4 @@ public class Turn {
 
         }
     }
-}
+
