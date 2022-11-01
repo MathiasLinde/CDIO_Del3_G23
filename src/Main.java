@@ -13,6 +13,7 @@ public class Main {
     And a language object that we use to get alle the text that we need to print out
      */
     public static void main(String[] args) {
+        System.out.println("du grim");
         Scanner scan = new Scanner(System.in);
         System.out.println(Language.getWelcome_to_the_game_());
         System.out.println(Language.Getname1());
