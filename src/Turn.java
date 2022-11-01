@@ -1,6 +1,4 @@
 public class Turn {
-
-    public class Turn {
         /**
          * Creates 2 die objects.
          */

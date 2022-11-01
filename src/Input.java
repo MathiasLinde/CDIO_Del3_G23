@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Input {
-    package Tilegame;
 
 import java.util.Scanner;
 
@@ -18,5 +17,4 @@ import java.util.Scanner;
             return s;
         }
     }
-}
 }

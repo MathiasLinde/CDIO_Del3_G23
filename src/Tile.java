@@ -1,5 +1,4 @@
 public class Tile {
-    public class Tile {
 
         private String title;
         private String flavourText;
